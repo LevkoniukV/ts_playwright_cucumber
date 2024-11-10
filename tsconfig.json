@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "outDir": "out",
+      "experimentalDecorators": true,          /* Enables experimental support for ES7 decorators. */
+    }
+}
